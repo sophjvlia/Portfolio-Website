@@ -5,6 +5,7 @@
     padding: 0;
     font-family: 'Syne', sans-serif;
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 
 body {
