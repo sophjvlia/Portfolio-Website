@@ -234,14 +234,17 @@ footer {
         flex-direction: column;
     }
 
-    .div-1 h3,
-    .div-2 h3 {
+    .div-1 h3 {
         margin-bottom: 1.5rem;
     }
 
     .div-2 {
         display: flex;
         flex-direction: column-reverse;
+    }
+
+    .div-2 h3 {
+        margin-bottom: 2rem;
     }
 }
 
